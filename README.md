@@ -1,5 +1,6 @@
 # pertemuan6
-
+# 2209106072
+# SOPHY AWALIAH
 A new Flutter project.
 
 ## Getting Started
